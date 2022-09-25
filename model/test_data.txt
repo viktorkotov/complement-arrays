@@ -1,0 +1,17 @@
+[
+        [ "a1",   "a2",   "a3",   "a4"   ],
+        [ "b1",   null,   null,   "b4"   ],     
+        [ null,   "c2",   "c3",   null   ],
+        [ "d1",   null,   null,   "d4"   ],
+        [ null,   "e2",   "e3",   null   ],
+        [ null,   "f2",   "f3",   "f4"   ],
+        [ "h1",   null ,  null,   null   ],
+        [ "g1",   null ,  null,   null   ],
+        [ "e1",   null,   null,   null   ],  
+        [ "d1",   null,   null,   null   ],
+        [ null,   "b2",   null,   "b4"   ],
+        [ null,   "c2",   null,   "c4"   ],
+        [ null,   "d2",   null,   "d4"   ],
+        [ null,   null,   "c3",   null   ],
+        [ null,   null,   "d3",   null   ]       
+]
